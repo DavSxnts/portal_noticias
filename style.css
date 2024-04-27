@@ -139,7 +139,7 @@ opacity: 0;
     padding: 20px; /* Espaçamento interno da notícia */
     position: relative;
     display: flex;
-    background-size: cover; /* Mantém a proporção da imagem */
+    background-size: cover; 
     background-position: center; /* Centraliza a imagem */
     color: white;
 }
